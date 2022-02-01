@@ -1,0 +1,3 @@
+/Users/bayurahmanadinata/OneDrive - Universitas Pelita Harapan/My_Campus/SMT_2/Struktur Data/Assigments/Exercise_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bayurahmanadinata/OneDrive - Universitas Pelita Harapan/My_Campus/SMT_2/Struktur Data/Assigments/Exercise_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bayurahmanadinata/OneDrive - Universitas Pelita Harapan/My_Campus/SMT_2/Struktur Data/Assigments/Exercise_1/cmake-build-debug/CMakeFiles/Exercise_1.dir
